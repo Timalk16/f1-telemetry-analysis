@@ -72,5 +72,37 @@ Based on the simulated data:
    cd f1-telemetry-analysis
    ```
 
+2. **Install Dependencies**:
+
+   ```bash
    pip install -r requirements.txt
+   ```
+
+3. **Run the Notebook**:
+
+   ```bash
    jupyter notebook f1_telemetry_analysis.ipynb
+   ```
+
+4. **View the Live Demo**:
+
+   ```bash
+   Visit timalk16.github.io/f1-telemetry-analysis/ for the interactive HTML version.
+   ```
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 📬 Contact
+
+I’m eager to contribute to an F1 team! Reach out to me:
+
+- **GitHub**: [Timalk16](https://github.com/Timalk16)
+- **Email**: [tima160604@gmail.com](mailto:tima160604@gmail.com)
+
+**Built with 🏁 passion for Formula 1 and data science!**
